@@ -79,6 +79,7 @@
 let a = 6;
 let ischeck = (a>0) ? "musbetdir" : "menfidir"
 console.log(ischeck)
+console.log("test")
 
 
 
