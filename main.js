@@ -211,8 +211,8 @@
 
 
 
-// let fruits = ["apple", "orange", "cherry"];
-// fruits.forEach(fruit => console.log(fruit))
+let fruits = ["apple", "orange", "cherry"];
+git fruits.forEach(fruit => console.log(fruit))
 let numbers = [1,8,0,9,5];
 console.log(numbers.reverse())
 
